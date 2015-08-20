@@ -2,6 +2,9 @@
     padding: 1em;
     background-color: black;
     color: white;
+}
+
+.console-output, .console-output pre {
     font-family: Monaco, "Ubuntu Mono", "DejaVu Sans Mono", Consolas, Menlo;
 }
 
