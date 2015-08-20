@@ -5,6 +5,7 @@
 .console-output,
 .console-output pre {
     font-size: 14px;
+    line-height: 1.5em;
     background-color: #111;
     color: #eee;
     padding: 10px 10px 30px;
