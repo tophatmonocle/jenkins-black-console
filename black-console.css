@@ -2,6 +2,7 @@
     padding: 1em;
     background-color: black;
     color: white;
+    font-family: Monaco, "Ubuntu Mono", "DejaVu Sans Mono", Consolas, Menlo;
 }
 
 .console-output a:link {
