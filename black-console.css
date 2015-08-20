@@ -16,6 +16,8 @@
  * Set the link color in console output
  */
 .console-output pre a,
-.console-output pre a:visited {
+.console-output pre a:visited,
+pre.console-output a,
+pre.console-output a:visited {
     color: #ED4A6A;
 }
