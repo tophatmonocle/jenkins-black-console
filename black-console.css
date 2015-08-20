@@ -2,6 +2,7 @@
     padding: 1em;
     background-color: black;
     color: white;
+    line-height: 1.5em;
 }
 
 .console-output, .console-output pre {
